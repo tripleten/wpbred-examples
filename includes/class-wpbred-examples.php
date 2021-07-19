@@ -8,7 +8,7 @@
  * Also maintains the unique identifier of this plugin as well as the current
  * version of the plugin.
  * 
- * @link       https://www.bpbred.com/
+ * @link       https://www.wpbred.com/
  * @since      1.0.0
  * @package    Wpbred_Examples
  * @subpackage Wpbred_Examples/includes

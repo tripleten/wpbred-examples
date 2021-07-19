@@ -3,17 +3,17 @@
 /**
  * The plugin bootstrap file
  *
- * @link              https://www.bpbred.com/
+ * @link              https://www.wpbred.com/
  * @since             1.0.0
  * @package           Wpbred_Examples
  *
  * @wordpress-plugin
  * Plugin Name:       WPbred Examples
- * Plugin URI:        https://www.bpbred.com/plugins/wpbred-examples
+ * Plugin URI:        https://www.wpbred.com/plugins/wpbred-examples
  * Description:       This plugin contains examples of the custom functions that can be added in a WordPress Plugin.
  * Version:           1.0.0
  * Author:            WPbred.com Team
- * Author URI:        https://www.bpbred.com/
+ * Author URI:        https://www.wpbred.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       wpbred-examples

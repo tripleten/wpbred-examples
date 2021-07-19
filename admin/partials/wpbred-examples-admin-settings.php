@@ -3,7 +3,7 @@
 /**
  * Provide a admin area view for the plugin's settings page
  *
- * @link       https://www.bpbred.com/
+ * @link       https://www.wpbred.com/
  * @since      1.0.0
  *
  * @package    Wpbred_Examples

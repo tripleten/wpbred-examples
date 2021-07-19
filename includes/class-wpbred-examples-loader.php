@@ -3,7 +3,7 @@
 /**
  * Register all actions and filters for the plugin
  *
- * @link       https://www.bpbred.com/
+ * @link       https://www.wpbred.com/
  * @since      1.0.0
  *
  * @package    Wpbred_Examples
