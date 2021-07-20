@@ -143,10 +143,10 @@ class Wpbred_Examples_Admin {
 		<input type="text" 
 			id="<?php echo esc_attr( $args['id'] ); ?>" 
 			name="wpb_examples_options[<?php echo esc_attr( $args['name'] ); ?>]" 
-			value="<?php echo isset( $options[ $args['name'] ] ) ? $options[ $args['name'] ] : esc_attr( $args['default_value']); ?>" 
-			class="<?php echo isset($args['class']) ? $args['class']: '' ?>" 
-			style="<?php echo isset($args['style']) ? $args['style']: '' ?>" 
-			placeholder="<?php echo esc_attr( $args['placeholder'] ); ?>"/>
+			value="<?php echo isset( $options[ $args['name'] ] ) ? esc_attr($options[ $args['name'] ]) : esc_attr( $args['default_value']); ?>" 
+			class="<?php echo isset($args['class']) ? esc_attr($args['class']): '' ?>" 
+			style="<?php echo isset($args['style']) ? esc_attr($args['style']): '' ?>" 
+			placeholder="<?php echo isset($args['placeholder']) ? esc_attr($args['placeholder']): '' ?>" 
 		<?php
 	}
 	
